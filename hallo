@@ -1,2 +1,14 @@
+#Ein kleiner Hund 
+#
+#
+#
+#
 #!bin/bash
 echo ich mag fliegen
+
+x=10
+for (x>1)
+echo Adrijan ist ein Hurensohn
+## Weil keine anhnung mehr 
+!help
+-help
